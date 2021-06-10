@@ -14,7 +14,7 @@ Presenta i moduli:
 * utils: per il mapping dei contenuti testuali, splitting degli utenti e altre operazioni di supporto
 
 Potrebbe risultare utile scaricare la seguente cartella:
-* datasets: a breve disponibile.
+* datasets: https://mega.nz/folder/OQwGnJZb#HZA2pzVmnvAzQ-pgx3oF4g
 
 ## Installazione
 * STEP1: assicurati di disporre di una versione python3.6 o superiore
